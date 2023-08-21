@@ -1,7 +1,7 @@
 ## Projeto: Aplicação de Análise de Dados
 
 ### Descrição do Projeto:
-Desenvolva uma aplicação de análise de dados que permita aos usuários carregar conjuntos de dados, realizar transformações, gerar visualizações e obter insights relevantes. Esta aplicação será construída usando Python, a biblioteca Pandas para manipulação de dados e Matplotlib para visualizações.
+Desenvolver uma aplicação de análise de dados que permita aos usuários carregar conjuntos de dados, realizar transformações, gerar visualizações e obter insights relevantes. Esta aplicação será construída usando Python, a biblioteca Pandas para manipulação de dados e Matplotlib para visualizações.
 
 ### Funcionalidades Principais:
 1. Carregar conjuntos de dados de diferentes formatos (CSV, Excel, etc.).
